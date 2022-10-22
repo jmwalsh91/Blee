@@ -30,8 +30,8 @@ export default function App() {
           <Box bg="success.500" mt="5" ml="5" size="20" rounded="lg" shadow={5} />
           <Box bg="success.300" mt="10" ml="10" size="20" rounded="lg" shadow={7} />
         </ZStack>
-        <MakePalette />
       </Box>
+        <MakePalette />
       <Box flex={1} bg="black" justifyContent="center" alignItems="center">
         
       </Box>
